@@ -1,0 +1,5 @@
+1.  Make it so the pattern matching supports # comments
+2.  Make it so the pattern matching for allowable text looks like:
+  whatever.sh=regex pattern goes here
+3. Make it so the wrapper.sh will load up all the patterns, similar to how the filter does, but instead will run each one on $line, and then run the appropriate script in the /mods/default/ folder.
+

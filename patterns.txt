@@ -1,0 +1,17 @@
+# from logstarmade.0.log
+\[SERVER\]\[SPAWN\]
+\[SERVER\]\[DISCONNECT\]
+\[PLAYER\]\[DEATH\]
+\[SERVER\] PlS\[
+\[SERVER\]\[PLAYERMESSAGE\]
+\[CHANNELROUTER\]
+\[SERVER\] Object Ship\[
+\[CHARACTER\]\[GRAVITY\]
+# From serverlog.0.log
+\[DEATH\]
+\[SPAWN\]
+\[BLUEPRINT\]
+\[SEGMENTCONTROLLER\] ENTITY
+\[FACTION\]
+\[FACTIONMANAGER\]
+\[SHUTDOWN\]

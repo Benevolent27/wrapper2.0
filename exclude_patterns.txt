@@ -1,0 +1,2 @@
+^\[SERVER\]\[DISCONNECT\] Client 'null'
+^\[SERVER\]\[DISCONNECT\] Client 'Info-Pinger \(server-lists\)'
